@@ -5,3 +5,4 @@ The task is to create a web page that takes speech as an input and then convert 
 Smart methods IOT department's second task
 
 Writing an algorithem that explains how to install and run esp32.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
